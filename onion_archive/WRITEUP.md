@@ -32,3 +32,4 @@ while True:
 
 Флаг: `surctf_whow_i_cry_but_i_solved_it`
 
+> Архив генерировался с помощью [generate.py](generate.py)
