@@ -32,3 +32,5 @@ for i in range(n):
 
 os.remove('flag1.zip')
 os.remove('flag0.zip')
+os.remove('flag.txt')
+os.remove('rick')
