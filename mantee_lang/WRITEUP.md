@@ -1,0 +1,1 @@
+flag: surctf_1_lik3_m4nt33_5p3ach_4nd_0rth0d0x
