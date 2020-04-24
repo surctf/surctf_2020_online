@@ -1,1 +1,1 @@
-flag: surctf_all_my_life_is_WoT
+flag: surctf_crazy_dog_all_my_life_is_WoT
