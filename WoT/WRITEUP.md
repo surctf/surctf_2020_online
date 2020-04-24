@@ -1,0 +1,1 @@
+flag: surctf_all_my_life_is_WoT
