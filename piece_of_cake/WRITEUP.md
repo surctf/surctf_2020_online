@@ -31,12 +31,12 @@ s = f.read()
 while True:
     try:
         s = base64.b64decode(s)
-	  except base64.binascii.Error:
-		    break
+    except base64.binascii.Error:
+	break
 try:
     print(s.decode())
 except UnicodeError:
-	  print(s)
+    print(s)
 
 ```
 
@@ -52,9 +52,9 @@ s = input()
 
 while True:
     try:
-		    s = base64.b64decode(s)
-	  except base64.binascii.Error:
-		    break
+	s = base64.b64decode(s)
+    except base64.binascii.Error:
+	break
 
 s = base64.b64encode(s)
 f = open('out.html', 'w+')
