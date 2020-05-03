@@ -6,6 +6,6 @@
 
 Далее нам понадобиться `Stegsolve`. С помощью него смотрим все изображения. Немного терпения, и на 200 кадре ты достигаешь успеха.
 
-![solve](solve.jpg)
+![solve](solved.png)
 
 Флаг: `surctf_d1r3cTed_by_rO83Rt_b_weide_w17H_lOve`
