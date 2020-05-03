@@ -7,7 +7,7 @@
 
 Переходим в <a href="http://64.227.79.53:44444//super_secret_place/"> /super_secret_place/ </a>, видим непонятный текст и пару гиперссылок, переходим по каждой, возбуждаемся, в конце списка находим картинку с флагом.
 
-![flag](flag.png)
+![flag](./static/flag.png)
 
 Флаг: `surctf_robots_has_heart_too`
 
