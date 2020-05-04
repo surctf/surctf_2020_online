@@ -1,4 +1,4 @@
-# EasyCrypto_2
+## EasyCrypto_2
 by s4lat, crypto, 100
 > За 100, значит про100:
 >
