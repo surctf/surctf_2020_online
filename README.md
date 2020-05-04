@@ -23,7 +23,7 @@
 
 ### `#ppc`
 [Я не плачу - это просто лук](tasks/onion_archive/) (ppc 300)  
-[Piece of Cake](tasks/piece_of_cake/) (ppc 300)
+[Piece of Cake](tasks/piece_of_cake/) (ppc 300)  
 [haha classic](tasks/haha&#32;classic/) (ppc 100)
 
 ### `#joy`
