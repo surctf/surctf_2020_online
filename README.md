@@ -26,10 +26,10 @@
 [Piece of Cake](tasks/piece_of_cake/) (ppc 300)
 
 ### `#joy`
-[RUN FOREST RUN #1](tasks/run_forest_run_1/) (joy 100)  
+[RUN FOREST RUN #1](tasks/run_forest_run_1/) (joy 150)  
 
 ### `#reverse`
-[RUN FOREST RUN #2](tasks/run_forest_run_2/) (reverse 100)  
+[RUN FOREST RUN #2](tasks/run_forest_run_2/) (reverse 300)  
 [obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (reverse 150)  
 
 ### `#stego`
