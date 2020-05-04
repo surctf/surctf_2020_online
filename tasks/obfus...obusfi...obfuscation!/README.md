@@ -1,5 +1,5 @@
 ## obfus...obusfi...obfuscation!
-ppc, 150
+by @EugeneFronzak, reverse, 150
 
 > **Внимание!!!**
 >
