@@ -18,7 +18,7 @@
 [ULTRA SECRET CHAT](tasks/ultra_secret_chat/) (web 200)  
 
 ### `#recon`
-[chew chew swallow](tasks/oops/chew%20chew%20swallow) (recon 200)  
+[chew chew swallow](tasks/chew%20chew%20swallow) (recon 200)  
 [WoT](tasks/WoT/) (recon 400)  
 
 ### `#ppc`
