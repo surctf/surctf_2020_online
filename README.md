@@ -1,8 +1,8 @@
-# `surctf_2020_online`
+### `surctf_2020_online`
 
 25 апреля 2020 года
 
-## `Таски`
+### `> Таски`
 
 ### `#crypto`
 [EasyCrypto_1](tasks/easy_crypto_1/) (crypto 50)  
