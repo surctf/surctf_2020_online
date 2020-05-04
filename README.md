@@ -22,7 +22,6 @@
 [WoT](tasks/WoT/) (recon 400)  
 
 ### `#ppc`
-[obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (ppc 200)  
 [Я не плачу - это просто лук](tasks/onion_archive/) (ppc 300)  
 [Piece of Cake](tasks/piece_of_cake/) (ppc 300)
 
@@ -31,6 +30,7 @@
 
 ### `#reverse`
 [RUN FOREST RUN #2](tasks/run_forest_run_2/) (reverse 100)  
+[obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (reverse 150)  
 
 ### `#stego`
 [R41NB0W 4LG43](tasks/oops/) (stego 100)  
