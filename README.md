@@ -35,7 +35,7 @@
 ### `#stego`
 [R41NB0W 4LG43](tasks/oops/) (stego 100)  
 [Ranetki forever](tasks/ranetki_forever/) (stego 100)  
-[USSR deep drawings](tasks/ussr_draws/) (stego 200)
+[USSR deep drawings](tasks/ussr_draws/) (stego 200)  
 [oops!](tasks/oops/) (stego 300)  
 
 
@@ -46,7 +46,7 @@
 Команда LastHopeGateway
 
 * [Евгений Живайкин](https://github.com/EZhivaikin) — руководитель команды разработки, разработчик тасков и платформы
-* [Артур Валиев](https://github.com/hopelessDev) — разработчик тасков и дизайна соревнования
+* [Артур Валиев](https://github.com/h0pedev) — разработчик тасков и дизайна соревнования
 * [Александр Румянцев](https://github.com/awakentrue) — разработчик тасков
 
 Команда ИН0Ш4П07ЯН3
