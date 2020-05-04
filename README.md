@@ -24,13 +24,16 @@
 ### `#ppc`
 [Я не плачу - это просто лук](tasks/onion_archive/) (ppc 300)  
 [Piece of Cake](tasks/piece_of_cake/) (ppc 300)
+[haha classic](tasks/haha&#32;classic/) (ppc 100)
 
 ### `#joy`
 [RUN FOREST RUN #1](tasks/run_forest_run_1/) (joy 150)  
+[Just do it](tasks/Just&#32;do&#32;it/) (joy 100)  
 
 ### `#reverse`
 [RUN FOREST RUN #2](tasks/run_forest_run_2/) (reverse 300)  
 [obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (reverse 150)  
+[is it brainfuck](tasks/is&#32;it&#32;brainfuck/) (reverse 100)  
 
 ### `#stego`
 [R41NB0W 4LG43](tasks/R41NB0W%204LG43/) (stego 100)  
