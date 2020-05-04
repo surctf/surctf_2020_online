@@ -1,4 +1,4 @@
-# EasyCrypto_1
+## EasyCrypto_1
 by s4lat, crypto, 50
 
 > Чтобы это могло значить??????

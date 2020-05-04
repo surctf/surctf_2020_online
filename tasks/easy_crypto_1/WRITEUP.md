@@ -1,4 +1,4 @@
-# EasyCrypto_1: Write-up
+## EasyCrypto_1: Write-up
 
 Видим hex, переводим в читаемый текст, например с помощью CyberChef. Получаем флаг.
 ![SolveImg](solve.png)

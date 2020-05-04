@@ -1,4 +1,4 @@
-# north_korea = (Kim + CTF) * Orwell: Write-up
+## north_korea = (Kim + CTF) * Orwell: Write-up
 
 ### Первое
 

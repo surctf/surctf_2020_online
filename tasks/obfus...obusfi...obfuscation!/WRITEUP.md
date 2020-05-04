@@ -1,4 +1,4 @@
-# obfus...obusfi...obfuscation!
+## obfus...obusfi...obfuscation!
 by @EugeneFronzak, reverse, 150
 
 Смотрим на исходники, и понимаем, что это просто обфусцированный код на python.
