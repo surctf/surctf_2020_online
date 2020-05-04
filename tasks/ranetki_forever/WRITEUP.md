@@ -8,6 +8,6 @@
 
 ### Третье
 Пытаемся растянуть трек по вертикали, чтобы прочитать остальную часть флага:
-[flag](ranetki.jpg)
+![flag](ranetki.jpg)
 
 `surctf_stegano_was_joke`
