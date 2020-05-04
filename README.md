@@ -1,8 +1,8 @@
-# surctf_2020_online
+# `surctf_2020_online`
 
 25 апреля 2020 года
 
-## Таски
+## `Таски`
 
 ### `#crypto`
 [EasyCrypto_1](tasks/easy_crypto_1/) (crypto 50)  
@@ -39,7 +39,7 @@
 [oops!](tasks/oops/) (stego 300)  
 
 
-## Организаторы
+## `Организаторы`
 
 Организаторы `surctf_` — Лаборатория технического творчества СурГУ и команды `LastHopeGateway` и `ИН0Ш4П07ЯН3`.
 
@@ -54,4 +54,3 @@
 * [Сергей Кацур](https://github.com/richkats) — разработчик тасков
 * [Максим Заказчик](https://github.com/s4lat) — разработчик тасков
 * [Егор Захаров](https://github.com/pigadoor) — разработчик тасков
-
