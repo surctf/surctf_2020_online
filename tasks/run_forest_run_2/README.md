@@ -7,7 +7,7 @@ reverse, 300
 >
 >В этом таске нужно сдавать флаг под номером 2
 >
->[Архив](/run_forest_run_1/Game.rar) (для 64 битных ОС)
->[Архив32](/run_forest_run_1/Game32.rar) (для 32 битных ОС)
+>[Архив](/tasks/run_forest_run_1/Game.rar) (для 64 битных ОС)
+>[Архив32](/tasks/run_forest_run_1/Game32.rar) (для 32 битных ОС)
 
 [Write-up](WRITEUP.md)
