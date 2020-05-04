@@ -22,7 +22,7 @@
 [WoT](tasks/WoT/) (recon 400)  
 
 ### `#ppc`
-[Obfuscation](tasks/obfuscation/) (ppc 200)  
+[obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (ppc 200)  
 [Я не плачу - это просто лук](tasks/onion_archive/) (ppc 300)  
 [Piece of Cake](tasks/piece_of_cake/) (ppc 300)
 
