@@ -1,4 +1,4 @@
-# EasyCrypto_2: Write-up
+## EasyCrypto_2: Write-up
 
 Видим `==` на конце, понимаем что это base64, расшифровываем, получаем флаг.
 
