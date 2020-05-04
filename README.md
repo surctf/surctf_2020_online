@@ -9,7 +9,7 @@
 [EasyCrypto_2](tasks/easy_crypto_2/) (crypto 100)  
 [Kirill's Cipher](tasks/holy_code/) (crypto 100)  
 [Big piiiipi](tasks/big_piiiipi/) (crypto 100)  
-[Book of decode](tasks/holy_code/) (crypto 200)   
+[Book of decode](tasks/book_of_decode/) (crypto 200)   
 [north_korea = (Kim + CTF) * Orwell](tasks/kim_ir_son/) (crypto 300)  
 [Mantee language](tasks/mantee_lang/) (crypto 300)  
 
