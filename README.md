@@ -33,7 +33,7 @@
 [obfus...obusfi...obfuscation!](tasks/obfus...obusfi...obfuscation!/) (reverse 150)  
 
 ### `#stego`
-[R41NB0W 4LG43](tasks/oops/) (stego 100)  
+[R41NB0W 4LG43](tasks/R41NB0W%204LG43/) (stego 100)  
 [Ranetki forever](tasks/ranetki_forever/) (stego 100)  
 [USSR deep drawings](tasks/ussr_draws/) (stego 200)  
 [oops!](tasks/oops/) (stego 300)  
