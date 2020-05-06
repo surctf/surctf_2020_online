@@ -1,4 +1,4 @@
-## Book of decode: Write-up
+## WoT: Write-up
 
 ### Первое
 Читаем таск и понимаем, что скорее всего есть какой-то вопрос на форуме **World of Tanks**, гуглим и находим [пост](http://forum.worldoftanks.ru/index.php?/topic/2097494-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d1%83-%d1%82%d0%b0%d0%bd%d0%ba%d0%b0-%d1%82-34-%d0%b7%d0%b2%d1%83%d0%ba-%d0%ba%d0%b0%d0%ba-%d1%83-%d1%80%d0%b5%d0%b7%d0%b8%d0%bd%d0%be%d0%b2%d0%be%d0%b9-%d1%83%d1%82%d0%be%d1%87%d0%ba%d0%b8)
